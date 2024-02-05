@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS }}
 
           # Options
-          user: Abstract-Programming
+          user: katnova
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Denver
