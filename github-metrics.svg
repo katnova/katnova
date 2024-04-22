@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    531k added, 19.2k removed
+                                    818k added, 4.90k removed
                                 </div>
                             </section>
                             <section>
@@ -327,11 +327,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.37577187193943" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="232.37577187193943" y="0" width="162.82517799038115" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="395.20094986232056" y="0" width="25.157858327792937" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="420.3588081901135" y="0" width="22.22120606283735" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="442.58001425295083" y="0" width="17.419985747049143" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.36905267973472" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="232.36905267973472" y="0" width="162.8204698675942" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="395.1895225473289" y="0" width="25.157130883256865" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="420.3466534305858" y="0" width="22.220563532192465" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="442.5672169627783" y="0" width="17.432783037221757" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1487,6 +1487,48 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">katnova/akat.fyi</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#be8c4ab</div>
+                                        <div class="message">Remove unused packages from package.json
+
+The unused packages 'nextjs-google-analytics' and 'react-particles-js' have been removed from package.json. This step was taken as these packages were not contributing to the project and thus, their removal streamlines the dependencies.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">katnova/akat.fyi</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7ac5a1f</div>
+                                        <div class="message">Added telemetry</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">katnova/blog</span>
                                     </div>
                                 </div>
@@ -1541,50 +1583,6 @@ The build command in netlify.toml has been changed from "yarn build" to "next bu
                                         <div class="message">Update build command and configurations
 
 Removed "yarn export" from the build command in the netlify.toml file and the corresponding script from package.json. Also, updated next.config.js and added '/out' to .gitignore. The changes optimize the build process and reduce possible output clutter.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">katnova/blog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2d6bd37</div>
-                                        <div class="message">Update Node version in .nvmrc file
-
-The Node version stated in the .nvmrc file has been updated from 14 to 18. This aligns the project with the latest stable release of Node.js which could provide performance improvements and new features.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">katnova/blog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ccdb42c</div>
-                                        <div class="message">Remove yarn.lock file
-
-The yarn.lock file was obsolete and has been removed to prevent any conflicts and maintain the consistency of the project. It also reflects the updated dependencies of the project after the removal.</div>
                                     </div>
                                 </div>
                             </section>
@@ -2121,7 +2119,7 @@ The yarn.lock file was obsolete and has been removed to prevent any conflicts an
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2024, 01:02:21 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2024, 02:02:50 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
