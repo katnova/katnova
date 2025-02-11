@@ -1421,7 +1421,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1413 [Snyk] Upgrade @fortawesome/vue-fontawesome from 2.0.6 to 2.0.10</span>
+                                        <span class="issue">#1418 [Snyk] Upgrade @fortawesome/vue-fontawesome from 2.0.6 to 2.0.10</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -1442,9 +1442,9 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">snyk-upgrade-2770d8e7cb6aaa6b8de61cab54b3f9d8</span></div>
+                                    <div>on branch <span class="code">snyk-upgrade-e4b55747e1801f3dd5b07c3f4147a525</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bd9be48</div>
+                                        <div class="sha">#a1a125f</div>
                                         <div class="message">fix: upgrade @fortawesome/vue-fontawesome from 2.0.6 to 2.0.10
 
 Snyk has created this PR to upgrade @fortawesome/vue-fontawesome from 2.0.6 to 2.0.10.
@@ -1467,7 +1467,7 @@ https://app.snyk.io/org/abstract-programming/project/fa2a0b46-4b6e-4ae7-be47-4ff
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">snyk-upgrade-2770d8e7cb6aaa6b8de61cab54b3f9d8</span>
+                                        <span class="code">snyk-upgrade-e4b55747e1801f3dd5b07c3f4147a525</span>
                                         in
                                         <span class="repo">katnova/2FAuth</span>
                                     </div>
@@ -1482,7 +1482,7 @@ https://app.snyk.io/org/abstract-programming/project/fa2a0b46-4b6e-4ae7-be47-4ff
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1412 [Snyk] Upgrade vue-qrcode-reader from 2.3.14 to 2.3.18</span>
+                                        <span class="issue">#1417 [Snyk] Upgrade vue-qrcode-reader from 2.3.14 to 2.3.18</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -1503,9 +1503,9 @@ https://app.snyk.io/org/abstract-programming/project/fa2a0b46-4b6e-4ae7-be47-4ff
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">snyk-upgrade-a59242454c5c381ac145b0693faa4454</span></div>
+                                    <div>on branch <span class="code">snyk-upgrade-6e8cfd1f3da94de6d6bc45f390fb735a</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d2e42eb</div>
+                                        <div class="sha">#4b0c54b</div>
                                         <div class="message">fix: upgrade vue-qrcode-reader from 2.3.14 to 2.3.18
 
 Snyk has created this PR to upgrade vue-qrcode-reader from 2.3.14 to 2.3.18.
@@ -2014,7 +2014,7 @@ https://app.snyk.io/org/abstract-programming/project/fa2a0b46-4b6e-4ae7-be47-4ff
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Feb 2025, 00:02:24 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2025, 01:02:47 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
